@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new tech stack such as MERN, Swift UI and so on.
 - 🤔 I’m looking for help with advance Flutter Development.
 - 💬 I have a strong background in various programming languages such as Core Java, Springboot, Native Android Development using Kotlin, and Deep Learning.
-- 📫 How to reach me: Github - VishavjeetS | LinkeDin - Vishavjeets2001
-- 😄 Pronouns: Male obv.
+- 📫 How to reach me: Github - VishavjeetS | LinkeDin - Vishavjeets2001 
 - ⚡ In my free time, I love to explore new places and travel. I consider myself to be a technology enthusiast with a keen interest in environmental conservation.
 
 ## 🌐 Socials:
